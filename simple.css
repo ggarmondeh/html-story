@@ -1,0 +1,28 @@
+
+  body{
+    text-align: center;
+    align-items: center;
+    margin: 0 0;
+    padding: 0;
+    background-color: rgb(102, 132, 124);
+  }
+  h1{
+    color: rgb(24, 26, 80);
+    font-weight: bolder;
+    font-size: 65px;
+    text-decoration: underline;
+  }
+  img{
+    width: 100px;
+    
+  }
+  div{
+    margin: 10px auto;
+    width: 500px;
+  }
+  p{
+    margin: 10px 0 0 0;
+    line-height: 20px;
+    font-size: 20px;
+  }
+  
